@@ -25,10 +25,10 @@ With its soft pastel pinkish shades, playful animations, and gentle music, this 
 ![Waiting Screenshot](waiting.png)
 
 ### Lights On Page
-![Lights On Screenshot](lightson.png)
+![Lights On Screenshot](lighton.png)
 
 ### Music Page
 ![Music Screenshot](music.png)
 
 ### Final Celebration
-![Cake Screenshot](cake.png)
+![Cake Screenshot](final.png)
