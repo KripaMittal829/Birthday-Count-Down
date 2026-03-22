@@ -16,3 +16,19 @@ With its soft pastel pinkish shades, playful animations, and gentle music, this 
 - Floating emoji animations  
 - Background music toggle  
 - Final cake + birthday wish page
+## 📸 Screenshots
+
+### Countdown Page
+![Countdown Screenshot](countdown.png)
+
+### Waiting Page
+![Waiting Screenshot](waiting.png)
+
+### Lights On Page
+![Lights On Screenshot](lightson.png)
+
+### Music Page
+![Music Screenshot](music.png)
+
+### Final Celebration
+![Cake Screenshot](cake.png)
